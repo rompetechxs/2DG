@@ -5,5 +5,5 @@ Sistemes de representació avançada
   <li><a href="https://github.com/CristinaNB">Cristina Navalón</a></li>
 </ul>
 <ul>
-  <li><a href="https://github.com/CristinaNB">Judit Iñesta</a></li>
+  <li><a href="https://github.com/rompetechxs">Judit Iñesta</a></li>
 </ul>
